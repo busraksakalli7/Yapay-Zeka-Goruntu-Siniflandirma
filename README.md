@@ -30,9 +30,8 @@ Toplam 10 sınıf (uçak, kuş, kedi, köpek vb.) içeren, 32x32 boyutunda küç
 
 ## 🧪 Eğitim Sonuçları
 
-- Eğitim Doğruluğu (Training Accuracy): `%{{eğitim doğruluğu}}`
-- Doğrulama Doğruluğu (Validation Accuracy): `%{{doğrulama doğruluğu}}`
-> Not: Bu değerleri kod çıktısına göre manuel ekleyebilirsin.
+- Eğitim Doğruluğu (Training Accuracy): `0.8190`
+- Doğrulama Doğruluğu (Validation Accuracy): `0.8350`
 
 ## 🖼️ Arayüz Özellikleri (Gradio)
 
@@ -53,10 +52,9 @@ Colab üzerinden çalıştırmak için:
 ## 🧩 Proje Dosya Yapısı
 
 - `goruntu.siniflandirma.ipynb`: Tüm eğitim, test ve arayüz kodlarını içeren Jupyter Notebook.
-- `model.h5`: Eğitilen modelin kaydedilmiş hali (eğer ayrı sunuluyorsa).
 - `README.md`: Proje dokümantasyonu.
-- `demo.png`: Arayüz ekran görüntüsü (gerekiyorsa).
-- `demo.mp4`: Uygulamanın kullanım videosu (isteğe bağlı).
+- `demo.png`: Arayüz ekran görüntüsü.
+- `demo.mp4`: Uygulamanın kullanım videosu.
 
 ## ✅ Fonksiyonel Özellikler
 
