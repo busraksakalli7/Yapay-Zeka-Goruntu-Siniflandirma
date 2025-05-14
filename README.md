@@ -1,6 +1,6 @@
 # 📸 Yapay Zeka Destekli Görüntü Sınıflandırıcı
 
-Bu proje, PEAKUP Bulut Bilişim ve Yapay Zeka Teknolojileri dersi kapsamında geliştirilmiş, **kullanıcı dostu arayüz** üzerinden çalışan bir **görüntü sınıflandırma uygulamasıdır**. Proje, makine öğrenimi yöntemleriyle eğitilen bir modelin, kullanıcıdan alınan görselleri otomatik olarak sınıflandırmasını sağlar.
+Bu proje, MTH Bulut Bilişim ve Yapay Zeka Teknolojileri dersi kapsamında geliştirilmiş, **kullanıcı dostu arayüz** üzerinden çalışan bir **görüntü sınıflandırma uygulamasıdır**. Proje, makine öğrenimi yöntemleriyle eğitilen bir modelin, kullanıcıdan alınan görselleri otomatik olarak sınıflandırmasını sağlar.
 
 ## 🎯 Proje Hedefi
 
