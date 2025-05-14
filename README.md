@@ -76,7 +76,7 @@ Colab üzerinden çalıştırmak için:
 
 ## 🧩 Proje Dosya Yapısı
 
-- `goruntu.siniflandirma.ipynb`: Tüm eğitim, test ve arayüz kodlarını içeren Jupyter Notebook.
+- `goruntu.siniflandirma.ipynb`: Tüm eğitim, test ve arayüz kodlarını içeren dosya.
 - `README.md`: Proje dokümantasyonu.
 - `demo.png`: Arayüz ekran görüntüsü.
 - `demo.mp4`: Uygulamanın kullanım videosu.
