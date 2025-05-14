@@ -33,7 +33,7 @@ Toplam 10 sınıf (uçak, kuş, kedi, köpek vb.) içeren, 32x32 boyutunda küç
 - Eğitim Doğruluğu (Training Accuracy): `0.8190`
 - Doğrulama Doğruluğu (Validation Accuracy): `0.8350`
 
-📊 Model Performans Değerlendirmesi
+## 📊 Model Performans Değerlendirmesi
 Model, CIFAR-10 veri seti üzerinde eğitilmiş ve test edilmiştir. Aşağıda sınıf bazında precision, recall ve f1-score değerleri ile birlikte genel başarı metrikleri yer almaktadır:
 | Sınıf      | Precision | Recall | F1-Score | Support |
 | ---------- | --------- | ------ | -------- | ------- |
