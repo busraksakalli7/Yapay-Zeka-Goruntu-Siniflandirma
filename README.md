@@ -69,7 +69,7 @@ Bu metrikler modelin genel olarak iyi bir performans sergilediğini göstermekte
 
 Colab üzerinden çalıştırmak için:
 
-1. [Google Colab Notebook'unu Aç](#)
+1. [Google Colab Notebook'unu Aç](https://colab.research.google.com/github/busraksakalli7/Yapay-Zeka-Goruntu-Siniflandirma/blob/main/goruntu.siniflandirma.ipynb)
 2. Gerekli kütüphaneleri yükle
 3. Modeli eğit veya eğitimli modeli yükle
 4. `gr.Interface` bloğunu çalıştırarak arayüzü başlat
